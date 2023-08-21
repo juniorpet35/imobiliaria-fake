@@ -1,0 +1,159 @@
+body {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+p {
+    margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	width: 980px;
+	font-size: 18px;
+	line-height: 28px;
+}
+.img1 {
+    width: 150px;
+}
+
+.head{
+    background-color: #afddfb;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 250px;
+}
+.head .p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.head a{
+    text-align: center;
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid 2px #1d1d1d;
+    text-decoration: none;
+    margin-top: none;
+    margin-bottom: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.head a:hover{
+    color:rgb(140, 0, 255);
+}
+.head ul li a:hover{
+    color:blueviolet;
+}
+
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+    font-family: tahoma;
+    font-size: 36px;
+}
+h2 {
+    font-family: tahoma;
+    color: #1c81c0;
+}
+.img2, .img3{
+    width: 450px;
+}
+.banner {
+    margin-top: 50px;
+    padding-top: none;
+}
+
+.apresentacao span {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.Servicos {
+    background-color: #1d80c1;
+    font-size: 21px;
+    color: white;
+    list-style-type: none;
+}
+.Servicos p{
+    color: #ffffff;
+	line-height: 42px;
+	font-size: 22px;
+	text-align: center;
+	width: 700px;
+}
+.texto-amarelo{
+    color: #fff81b;
+    font-weight: bold;
+}
+.Servicos ul {
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 40px;
+	width: 135px;
+}
+.Servicos li {
+	color: #ffffff;
+	line-height: 42px;
+	text-align: left;
+	font-size: 22px;
+}
+h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+.Servicos span {
+    color: yellow;
+    font-weight: bold;
+}
+
+.corretores h3{
+    color: #1d80c1;
+    font-size: 28px;
+    line-height: 42px;
+}
+.corretores span{
+    color: #1d80c1;
+    font-weight: bold;
+}
+.contato {
+    background-color: #1d80c1;
+}
+.contato p{
+	color: #ffffff;
+	background-color: #1d1d1d;
+	padding: 15px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.contato ul {
+	margin-top:40px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+	width: 210px;
+}
+.contato li {
+	margin-top:15px;
+	text-align: center;
+	font-size: 18px;
+}
+.contato li a {
+	background-color: #ffffff;
+	color: #1d80c1;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 5px;
+}
+.contato span a:hover{
+    color: yellow;
+}
+.contato a{
+    color:rgb(168, 39, 201);
+}
+.contato iframe{
+    width: 500px;
+    height: 250px;
+}
